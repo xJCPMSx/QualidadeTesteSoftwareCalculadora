@@ -1,3 +1,5 @@
+package model;
+
 public final class Calculadora {
     /**
      * @return valor1 Descrição do parâmetro valor1.
